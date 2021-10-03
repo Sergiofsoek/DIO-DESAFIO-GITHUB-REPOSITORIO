@@ -1,3 +1,7 @@
 Link para download do GIT:
 https://git-scm.com/downloads
-O git bash é um termina extendido para otimização a utilização do GIT
+O git bash é um termina extendido para otimização a utilização do GIT.
+
+Comandos:
+Limpar tela git bash ctrl + l
+https://medium.com/@andradegabriela20/o-que-%C3%A9-git-git-bash-e-comandos-b%C3%A1sicos-94a53de6d376
